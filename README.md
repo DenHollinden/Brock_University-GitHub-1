@@ -3,8 +3,8 @@
 ![Glenn Youngkin](DEN_010550.jpg)
 Work through exercises for BU GitHub class.
 This is a practice project for Brock University's GitHub series of classes.
-* This is a sample single *
-** This is a sample double **
+*This is a sample single*
+**This is a sample double**
 
 - Item 1
 - Item 2
